@@ -54,7 +54,5 @@ Email: Q.abukashef@gmail.com
 ---
 
 © 2025 Riyadh Transport Authority (RTA)  
-Data and analysis prepared by Al-Qasem Abukashef  
-Sources include TomTom, Microsoft Bing Maps, and OpenStreetMap  
 
 
